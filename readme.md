@@ -129,20 +129,32 @@ Aunque, según avance el desarrollo del juego, se generarán todos los sprites d
 ### Concept de aviones:
 
 ![Boceto Naves](https://raw.githubusercontent.com/jagonmes/Imagenes-JeR/main/Naves%20Boceto.jpg)
+
 ![Naves](https://raw.githubusercontent.com/jagonmes/Imagenes-JeR/main/Naves.jpg)
+
 ![McDaniels Shipwrights Condor-class gunship](https://raw.githubusercontent.com/jagonmes/Imagenes-JeR/main/NaveReferencia1.jpg)
+
 [McDaniels Shipwrights Condor-class gunship](https://www.deviantart.com/adamkop/art/McDaniels-Shipwrights-Condor-class-gunship-517563452)
+
 ![Turian Shuttles](https://raw.githubusercontent.com/jagonmes/Imagenes-JeR/main/NaveReferencia2.jpg)
+
 [Turian Shuttles](https://www.deviantart.com/euderion/art/Turian-Shuttles-768172079)
+
 
 ### Referencias para entornos:
 
 ![Neon Sunset on an alien planet?](https://raw.githubusercontent.com/jagonmes/Imagenes-JeR/main/neonSunset.jpg)
+
 [Neon Sunset on an alien planet?](https://www.deviantart.com/goatmutation/art/Neon-Sunset-on-an-alien-planet-829231654)
+
 ![# Space Travel](https://raw.githubusercontent.com/jagonmes/Imagenes-JeR/main/spaceTravel.jpg)
+
 [Space Travel](https://www.deviantart.com/qauz/art/Space-Travel-575566386)
+
 ![# Gradius II](https://raw.githubusercontent.com/jagonmes/Imagenes-JeR/main/Gradius-II-1-Fire-Dragons-1.jpg)
+
 [Gradius II](https://es.wikipedia.org/wiki/Gradius_II)
+
 
 ## Referencias
 
