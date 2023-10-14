@@ -10,7 +10,7 @@
  - José Antonio González Mesado - Correo URJC: ja.gonzalezme.2021@alumnos.urjc.es - GitHub: [jagonmes](https://github.com/jagonmes)
  -  Anastasia Ihnatsenka Shakhova - Correo URJC: a.ihnatsenka.2021@alumnos.urjc.es - GitHub: [TasiaTas](https://github.com/TasiaTas)
  -  Lorena Martínez González - Correo URJC: l.martinezg.2021@alumnos.urjc.es - GitHub: [LorenaMartinez2704](https://github.com/LorenaMartinez2704)
- -  Jorge Juan Xuclá Esparza - Correo URJC: "" - GitHub: [LordOrco](https://github.com/LordOrco)
+ -  Jorge Juan Xuclá Esparza - Correo URJC: jj.xucla.2021@alumnos.urjc.es - GitHub: [LordOrco](https://github.com/LordOrco)
 
 # GDD
 
